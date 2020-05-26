@@ -48,5 +48,11 @@ opendata [ @ ] digikalanext.com ارسال نمایید.
 > تقدیم به متخصصین داده - پیاده سازان سیستم های توصیه گر - پژوهشگران - دانشجویان - اساتید
 
 
+**
+لطفا اکانتم رو فالو کنید تا اگر آپدیتی چیزی اومد بتونید دانلود کنید
+طریقه فالو رو در عکس زیر نشون میدم**
+[![طریقه دنبال کردن در گیتهاب](https://github-images.s3.amazonaws.com/enterprise/2.15/assets/images/help/profile/follow-user-button.png "طریقه دنبال کردن در گیتهاب")](https://help.github.com/en/enterprise/2.15/user/articles/following-people "طریقه دنبال کردن در گیتهاب")
+
+
 پیروز و موفق باشید
 ##### فرشاد
